@@ -14,7 +14,6 @@
 
 # Your Code Here:
 
-3 + 5
 
 # Answer: 
 
